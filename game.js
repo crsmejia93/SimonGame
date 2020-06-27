@@ -35,9 +35,8 @@ function levelProcess(){
 
 function checkAnswer(){
   gamePattern.forEach((gameColor)=>{
-    console.log("Game pattern color: "+ gameColor);
     userClickedPattern.forEach((userColor)=>{
-      console.log("User pattern color: "+ userColor);
+      if()
     });
   });
 }
